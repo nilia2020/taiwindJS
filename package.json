@@ -1,0 +1,22 @@
+{
+  "name": "practicojs",
+  "version": "1.0.0",
+  "description": "tailwind css and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "javascript"
+  ],
+  "author": "jorge niglia",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
